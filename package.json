@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
+  "peerDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0",
+    "prettier": "^2.3.0"  
+  },
+  "keywords": [
+    "config",
+    "ecmascript",
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "typescript",
+    "lint",
+    "nextjs",
+    "prettier"
+  ],
+  "author": "Rezuan Kassim",
+  "license": "MIT",
+  "repository": {
+    
+  }
+}
